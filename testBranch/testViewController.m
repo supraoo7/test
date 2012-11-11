@@ -20,6 +20,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     NSLog(@"2nd commit");
     NSLog(@"branched???");
+    NSLog(@"change in master");
 }
 
 - (void)didReceiveMemoryWarning
